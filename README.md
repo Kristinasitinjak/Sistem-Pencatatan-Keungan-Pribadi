@@ -1,4 +1,4 @@
-# 📊 Catatan Keuanganku
+#  Catatan Keuanganku
 
 Catatan Keuanganku adalah proyek pencatatan finansial berbasis spreadsheet yang dirancang untuk membantu mengelola pemasukan dan pengeluaran dengan lebih rapi dan terorganisir. Proyek ini bertujuan meningkatkan kesadaran finansial dengan memberikan tampilan ringkasan keuangan yang jelas dan mudah dipahami.
 
@@ -9,7 +9,7 @@ Catatan Keuanganku adalah proyek pencatatan finansial berbasis spreadsheet yang 
 - Otomatisasi Perhitungan: Menggunakan rumus spreadsheet untuk menghitung total saldo secara otomatis.
 - Visualisasi Data: Grafik sederhana untuk memahami pola pengeluaran dan pemasukan.
 
-## 🛠 Cara Penggunaan
+##  Cara Penggunaan
 
 ### 1️⃣ Manual (Spreadsheet)
 1. Download file spreadsheet dari repositori ini.
@@ -50,4 +50,4 @@ Catatan Keuanganku adalah proyek pencatatan finansial berbasis spreadsheet yang 
 
 ---
 
-🚀 Proyek ini masih bisa dikembangkan lebih lanjut! Jika ada ide atau ingin berkontribusi, silakan buat issue atau pull request di repositori ini. 😊
+ Proyek ini masih bisa dikembangkan lebih lanjut! Jika ada ide atau ingin berkontribusi, silakan buat issue atau pull request di repositori ini. 😊
